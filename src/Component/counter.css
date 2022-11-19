@@ -1,0 +1,9 @@
+.button{
+    margin: 10px;
+    color: brown;
+    border-radius: 2px;
+    border: 1px solid;
+}
+#count{
+    color: black;
+}
